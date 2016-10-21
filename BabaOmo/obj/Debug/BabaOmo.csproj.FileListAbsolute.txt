@@ -1,0 +1,11 @@
+C:\Users\michaeli\Documents\Visual Studio 2015\Projects\BabaOmo\BabaOmo\bin\Debug\BabaOmo.dll
+C:\Users\michaeli\Documents\Visual Studio 2015\Projects\BabaOmo\BabaOmo\bin\Debug\BabaOmo.pdb
+C:\Users\michaeli\Documents\Visual Studio 2015\Projects\BabaOmo\BabaOmo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\michaeli\Documents\Visual Studio 2015\Projects\BabaOmo\BabaOmo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\michaeli\Documents\Visual Studio 2015\Projects\BabaOmo\BabaOmo\obj\Debug\BabaOmo.csprojResolveAssemblyReference.cache
+C:\Users\michaeli\Documents\Visual Studio 2015\Projects\BabaOmo\BabaOmo\obj\Debug\BabaOmo.Resources.resources
+C:\Users\michaeli\Documents\Visual Studio 2015\Projects\BabaOmo\BabaOmo\obj\Debug\BabaOmo.csproj.GenerateResource.Cache
+C:\Users\michaeli\Documents\Visual Studio 2015\Projects\BabaOmo\BabaOmo\obj\Debug\BabaOmo.dll
+C:\Users\michaeli\Documents\Visual Studio 2015\Projects\BabaOmo\BabaOmo\obj\Debug\BabaOmo.pdb
+C:\Users\michaeli\Documents\Visual Studio 2015\Projects\BabaOmo\BabaOmo\bin\Debug\Data\NIG-Data.csv
+C:\Users\michaeli\Documents\Visual Studio 2015\Projects\BabaOmo\BabaOmo\bin\Debug\Data\NIG-Data.json
