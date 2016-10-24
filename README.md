@@ -1,7 +1,9 @@
 # BabaOmo
 This is a group of code libraries and tests for determining the combined paternity index in paternity tests.
 
-### Pseudocode
+![Paternity Tests](http://dna-fingerprinting.weebly.com/uploads/4/5/0/6/4506479/769635783_orig.jpg)
+
+<!--### Pseudocode
 
 **Input**
 
@@ -45,4 +47,4 @@ This is a group of code libraries and tests for determining the combined paterni
   - Else if (**probability_of_paternity** >= 90 && **probability_of_paternity** < 100)
     - The Man can NOT be excluded as the Biological Father of the Child
   - Else
-    - Hmm, looks like we have made a mistake here ... This should never happen
+    - Hmm, looks like we have made a mistake here ... This should never happen-->
