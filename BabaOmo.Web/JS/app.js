@@ -26,7 +26,8 @@ babaOmoApp.config(function ($stateProvider, $urlRouterProvider, $locationProvide
         })
         .state('result', {
             url: '/result',
-            templateUrl: 'partials/result.html'
+            templateUrl: 'partials/result.html',
+            controller: 'ResultCtrl'
         });
 });
 
