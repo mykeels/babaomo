@@ -19,13 +19,13 @@ namespace BabaOmo.Tests
 
             var test = new Paternity(config);
 
-            string result = test.GetVerdict();
+            string result = test.getVerdict().ToJson(true);
 
             Console.WriteLine(result);
             Console.WriteLine();
 
             Console.WriteLine("Paternity Indices: ");
-            Console.WriteLine(test.PaternityIndices.ToJson(true));
+            Console.WriteLine(test.paternityIndices.ToJson(true));
 
             Console.Read();
         }

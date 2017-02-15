@@ -1,130 +1,130 @@
 ﻿{
   "FatherLoci": [
     {
-      "Name": "D3S1358",
-      "AlleleA": 15,
-      "AlleleB": 16
+      "name": "D3S1358",
+      "allele1": 15,
+      "allele2": 16
     },
     {
-      "Name": "D7S820",
-      "AlleleA": 11,
-      "AlleleB": 11
+      "name": "D7S820",
+      "allele1": 11,
+      "allele2": 11
     },
     {
-      "Name": "VWA",
-      "AlleleA": 13,
-      "AlleleB": 16
+      "name": "VWA",
+      "allele1": 13,
+      "allele2": 16
     },
     {
-      "Name": "FGA",
-      "AlleleA": 22,
-      "AlleleB": 28
+      "name": "FGA",
+      "allele1": 22,
+      "allele2": 28
     },
     {
-      "Name": "D8S1179",
-      "AlleleA": 13,
-      "AlleleB": 14
+      "name": "D8S1179",
+      "allele1": 13,
+      "allele2": 14
     },
     {
-      "Name": "D21S11",
-      "AlleleA": 28,
-      "AlleleB": 32.2
+      "name": "D21S11",
+      "allele1": 28,
+      "allele2": 32.2
     },
     {
-      "Name": "D18S51",
-      "AlleleA": 17,
-      "AlleleB": 18
+      "name": "D18S51",
+      "allele1": 17,
+      "allele2": 18
     },
     {
-      "Name": "D5S818",
-      "AlleleA": 8,
-      "AlleleB": 12
+      "name": "D5S818",
+      "allele1": 8,
+      "allele2": 12
     }
   ],
   "MotherLoci": [
     {
-      "Name": "D3S1358",
-      "AlleleA": 17,
-      "AlleleB": 18
+      "name": "D3S1358",
+      "allele1": 17,
+      "allele2": 18
     },
     {
-      "Name": "D7S820",
-      "AlleleA": 8,
-      "AlleleB": 9
+      "name": "D7S820",
+      "allele1": 8,
+      "allele2": 9
     },
     {
-      "Name": "VWA",
-      "AlleleA": 14,
-      "AlleleB": 15
+      "name": "VWA",
+      "allele1": 14,
+      "allele2": 15
     },
     {
-      "Name": "FGA",
-      "AlleleA": 21,
-      "AlleleB": 21
+      "name": "FGA",
+      "allele1": 21,
+      "allele2": 21
     },
     {
-      "Name": "D8S1179",
-      "AlleleA": 13,
-      "AlleleB": 15
+      "name": "D8S1179",
+      "allele1": 13,
+      "allele2": 15
     },
     {
-      "Name": "D21S11",
-      "AlleleA": 28,
-      "AlleleB": 29
+      "name": "D21S11",
+      "allele1": 28,
+      "allele2": 29
     },
     {
-      "Name": "D18S51",
-      "AlleleA": 16,
-      "AlleleB": 17
+      "name": "D18S51",
+      "allele1": 16,
+      "allele2": 17
     },
     {
-      "Name": "D5S818",
-      "AlleleA": 11,
-      "AlleleB": 14
+      "name": "D5S818",
+      "allele1": 11,
+      "allele2": 14
     }
   ],
   "ChildLoci": [
     {
-      "Name": "D3S1358",
-      "AlleleA": 16,
-      "AlleleB": 17
+      "name": "D3S1358",
+      "allele1": 16,
+      "allele2": 17
     },
     {
-      "Name": "D7S820",
-      "AlleleA": 8,
-      "AlleleB": 11
+      "name": "D7S820",
+      "allele1": 8,
+      "allele2": 11
     },
     {
-      "Name": "VWA",
-      "AlleleA": 14,
-      "AlleleB": 16
+      "name": "VWA",
+      "allele1": 14,
+      "allele2": 16
     },
     {
-      "Name": "FGA",
-      "AlleleA": 21,
-      "AlleleB": 28
+      "name": "FGA",
+      "allele1": 21,
+      "allele2": 28
     },
     {
-      "Name": "D8S1179",
-      "AlleleA": 14,
-      "AlleleB": 15
+      "name": "D8S1179",
+      "allele1": 14,
+      "allele2": 15
     },
     {
-      "Name": "D21S11",
-      "AlleleA": 28,
-      "AlleleB": 32.2
+      "name": "D21S11",
+      "allele1": 28,
+      "allele2": 32.2
     },
     {
-      "Name": "D18S51",
-      "AlleleA": 17,
-      "AlleleB": 18
+      "name": "D18S51",
+      "allele1": 17,
+      "allele2": 18
     },
     {
-      "Name": "D5S818",
-      "AlleleA": 8,
-      "AlleleB": 14
+      "name": "D5S818",
+      "allele1": 8,
+      "allele2": 14
     }
   ],
-  "PopulationCode": "NIG",
-  "PriorProbability":  0.5
+  "populationCode": "NIG",
+  "priorProbability":  0.5
 }

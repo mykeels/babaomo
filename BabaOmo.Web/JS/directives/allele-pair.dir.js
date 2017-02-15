@@ -8,7 +8,7 @@
 babaOmoApp.directive("allelePair", function () {
     return {
         restrict: 'AE',
-        templateUrl: rootUrl('js/directives/allele-pair.dir.html'),
+        templateUrl: rootDirectivesUrl('allele-pair.dir.html'),
         scope: {
             allelePair: '=',
             alleleNames: '=',

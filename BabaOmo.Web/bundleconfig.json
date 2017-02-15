@@ -1,0 +1,75 @@
+﻿[
+  {
+    "outputFileName": "../app/style.css",
+    "inputFiles": [
+      "css/style.css"
+    ]
+  },
+  {
+    "outputFileName": "../app/scripts.js",
+    "inputFiles": [
+      "js/app.js",
+      "js/babaomo.factory.js",
+      "js/alleles.ctrl.js",
+      "js/info.ctrl.js",
+      "js/result.ctrl.js",
+      "js/directives/allele-pair.dir.js",
+      "js/scripts.js",
+      "js/prototypes/array.prototype.js"
+    ]
+  },
+  {
+    "outputFileName": "../app/child.html",
+    "inputFiles": [
+      "partials/child.html"
+    ],
+    "minify": {
+      "enabled": false
+    }
+  },
+  {
+    "outputFileName": "../app/father.html",
+    "inputFiles": [
+      "partials/father.html"
+    ],
+    "minify": {
+      "enabled": false
+    }
+  },
+  {
+    "outputFileName": "../app/info.html",
+    "inputFiles": [
+      "partials/info.html"
+    ],
+    "minify": {
+      "enabled": false
+    }
+  },
+  {
+    "outputFileName": "../app/result.html",
+    "inputFiles": [
+      "partials/result.html"
+    ],
+    "minify": {
+      "enabled": false
+    }
+  },
+  {
+    "outputFileName": "../app/splash.html",
+    "inputFiles": [
+      "partials/splash.html"
+    ],
+    "minify": {
+      "enabled": false
+    }
+  },
+  {
+    "outputFileName": "../app/index.html",
+    "inputFiles": [
+      "index.html"
+    ],
+    "minify": {
+      "enabled": false
+    }
+  }
+]

@@ -7,26 +7,26 @@ babaOmoApp.config(function ($stateProvider, $urlRouterProvider, $locationProvide
     $stateProvider
         .state('home', {
             url: '/',
-            templateUrl: 'partials/splash.html'
+            templateUrl: rootPartialsUrl('splash.html')
         })
         .state('info', {
             url: '/info',
-            templateUrl: 'partials/info.html',
+            templateUrl: rootPartialsUrl('info.html'),
             controller: 'InfoCtrl'
         })
         .state('child', {
             url: '/child',
-            templateUrl: 'partials/child.html',
+            templateUrl: rootPartialsUrl('child.html'),
             controller: 'AllelesCtrl'
         })
         .state('father', {
             url: '/father',
-            templateUrl: 'partials/father.html',
+            templateUrl: rootPartialsUrl('father.html'),
             controller: 'AllelesCtrl'
         })
         .state('result', {
             url: '/result',
-            templateUrl: 'partials/result.html',
+            templateUrl: rootPartialsUrl('result.html'),
             controller: 'ResultCtrl'
         });
 });
@@ -41,4 +41,19 @@ function webApiUrl(url) {
 
 function errorhandler(err, obj) {
     console.error(err, obj);
+}
+
+function rootPartialsUrl(url) {
+    if (document.location.href.indexOf('localhost') >= 0) return rootUrl('partials/') + url;
+    else return rootUrl(url);
+}
+
+function rootDirectivesUrl(url) {
+    if (document.location.href.indexOf('localhost') >= 0) return rootUrl('js/directives/') + url;
+    else return rootUrl(url);
+}
+
+function rootJsUrl(url) {
+    if (document.location.href.indexOf('localhost') >= 0) return rootUrl('js/') + url;
+    else return rootUrl(url);
 }

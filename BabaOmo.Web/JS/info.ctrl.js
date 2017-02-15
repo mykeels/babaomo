@@ -25,6 +25,7 @@
             else if (String.isNullOrEmpty(me.gender)) doc.setError("#inputGender", "Invalid Gender");
             else {
                 me.submit();
+                $scope.babaOmoFactory.info = me;
             }
         }
         this.submit = function () {

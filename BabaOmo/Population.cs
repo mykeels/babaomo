@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using BabaOmo.Helpers;
 
 namespace BabaOmo
 {
@@ -23,11 +24,11 @@ namespace BabaOmo
 
         public class AlleleFrequency
         {
-            public string LocusName { get; set; }
-            public string PopulationCode { get; set; }
-            public string PopulationName { get; set; }
-            public decimal AlleleNo { get; set; }
-            public decimal Frequency { get; set; }
+            public string locusName { get; set; }
+            public string populationCode { get; set; }
+            public string populationName { get; set; }
+            public decimal alleleNo { get; set; }
+            public decimal frequency { get; set; }
         }
 
         public class AlleleFrequencies: List<AlleleFrequency>
@@ -41,12 +42,12 @@ namespace BabaOmo
             {
                 if (populationCode == null)
                 {
-                    string jsonData = System.IO.File.ReadAllText("Data/All-Data.json");
+                    string jsonData = System.IO.File.ReadAllText(Site.mapPath("~/Data/All-Data.json"));
                     return Newtonsoft.Json.JsonConvert.DeserializeObject<List<AlleleFrequency>>(jsonData);
                 }
                 else
                 {
-                    string jsonData = System.IO.File.ReadAllText("Data/" + populationCode + "-Data.json");
+                    string jsonData = System.IO.File.ReadAllText(Site.mapPath($"~/Data/{populationCode}-Data.json"));
                     return Newtonsoft.Json.JsonConvert.DeserializeObject<List<AlleleFrequency>>(Convert.ToString(jsonData));
                 }
             }
