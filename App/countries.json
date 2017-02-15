@@ -1,0 +1,11 @@
+﻿[
+  { "name":  "Sudan", "code":  "SDN" },
+  { "name":  "Nigeria", "code":  "NIG" },
+  { "name":  "Benin Republic", "code":  "BEN" },
+  { "name":  "Germany", "code":  "GER" },
+  { "name":  "Spain", "code":  "SPN" },
+  { "name":  "Brazil", "code":  "BRA" },
+  { "name":  "China", "code":  "SHN" },
+  { "name":  "Japan", "code":  "JAP" },
+  { "name":  "Thailand", "code":  "THA" }
+]
