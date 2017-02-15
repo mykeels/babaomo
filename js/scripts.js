@@ -32,7 +32,7 @@ babaOmoApp.config(function ($stateProvider, $urlRouterProvider, $locationProvide
 });
 
 function rootUrl(url) {
-    return "/" + url;
+    return "" + url;
 }
 
 function webApiUrl(url) {
