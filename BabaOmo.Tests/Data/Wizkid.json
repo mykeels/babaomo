@@ -1,5 +1,5 @@
 ﻿{
-  "FatherLoci": [
+  "fatherLoci": [
     {
       "name": "D3S1358",
       "allele1": 15,
@@ -41,7 +41,7 @@
       "allele2": 12
     }
   ],
-  "MotherLoci": [
+  "motherLoci": [
     {
       "name": "D3S1358",
       "allele1": 17,
@@ -83,7 +83,7 @@
       "allele2": 14
     }
   ],
-  "ChildLoci": [
+  "childLoci": [
     {
       "name": "D3S1358",
       "allele1": 16,

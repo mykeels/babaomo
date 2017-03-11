@@ -11,16 +11,16 @@
     });
 
     var Info = function () {
-        this.name = "";
+        this.name = "Mykeels";
         this.email = "";
-        this.country = "";
         this.gender = "male";
         this.dob = "01/01/2002";
+        this.country = "NIG";
         var me = this;
         this.validate = function () {
             doc.remError("#inputName,#inputEmail,#inputCountry,#inputGender");
             if (String.isNullOrEmpty(me.name)) doc.setError("#inputName", "Invalid Name");
-            else if (String.isNullOrEmpty(me.email) || !/(\w+(\d*)(\w*))+\@(\w+(\d*)(\w*))+\.(\w+(\d*)(\w*))+/.test(me.email)) doc.setError("#inputEmail", "Invalid Email Address");
+            //else if (String.isNullOrEmpty(me.email) || !/(\w+(\d*)(\w*))+\@(\w+(\d*)(\w*))+\.(\w+(\d*)(\w*))+/.test(me.email)) doc.setError("#inputEmail", "Invalid Email Address");
             else if (String.isNullOrEmpty(me.country)) doc.setError("#inputCountry", "Invalid Country");
             else if (String.isNullOrEmpty(me.gender)) doc.setError("#inputGender", "Invalid Gender");
             else {

@@ -33,7 +33,7 @@
 
                 <div class="form-group">
                     <label class="control-label" for="inputName" ng-if="String.isNullOrEmpty(info.name)">Full Name</label>
-                    <input type="text" class="form-control" id="inputName" ng-model="info.name" placeholder="" />
+                    <input type="text" class="form-control" id="inputName" ng-model="info.name" placeholder="Full Name" />
                 </div>
 
                 <div class="form-group">
@@ -42,13 +42,13 @@
                 </div>
 
                 <div class="form-group">
-                    <label class="control-label" for="inputCountry" ng-if="String.isNullOrEmpty(info.country)">Nationality</label>
+                    <!--<label class="control-label" for="inputCountry" ng-if="String.isNullOrEmpty(info.country)">Nationality</label>-->
                     <select class="form-control" id="inputCountry" ng-model="info.country" ng-options="country.code as country.name for country in countries"></select>
                 </div>
 
-                <div class="form-group">
+                <div class="form-group hide">
                     <label class="control-label" for="inputEmail" ng-if="String.isNullOrEmpty(info.email)">Email</label>
-                    <input type="text" class="form-control" id="inputEmail" ng-model="info.email" placeholder="" />
+                    <input type="text" class="form-control" id="inputEmail" ng-model="info.email" placeholder="Email Address" />
                 </div>
 
                 <a class="btn btn-primary btn-block blue-btn" ng-click="info.validate()">Proceed <i class="material-icons">&#xE5C8;</i></a>

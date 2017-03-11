@@ -9,6 +9,12 @@
     "outputFileName": "../app/scripts.js",
     "inputFiles": [
       "js/app.js",
+      "js/models/allele-frequency.model.js",
+      "js/models/config.model.js",
+      "js/models/constants.model.js",
+      "js/models/locus.model.js",
+      "js/models/paternity.model.js",
+      "js/models/report.model.js",
       "js/babaomo.factory.js",
       "js/alleles.ctrl.js",
       "js/info.ctrl.js",
@@ -64,6 +70,15 @@
     }
   },
   {
+    "outputFileName": "../app/Data/NIG-Data.json",
+    "inputFiles": [
+      "Data/NIG-Data.json"
+    ],
+    "minify": {
+      "enabled": false
+    }
+  }//,
+  /*{
     "outputFileName": "../app/index.html",
     "inputFiles": [
       "index.html"
@@ -71,5 +86,5 @@
     "minify": {
       "enabled": false
     }
-  }
+  }*/
 ]
