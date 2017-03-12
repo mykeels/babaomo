@@ -1,0 +1,933 @@
+[
+ {
+   "locusName": "D3S1358",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 11,
+   "frequency": 1
+ },
+ {
+   "locusName": "D3S1358",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 12,
+   "frequency": 0
+ },
+ {
+   "locusName": "D3S1358",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 13,
+   "frequency": 0
+ },
+ {
+   "locusName": "D3S1358",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 14,
+   "frequency": 13.5
+ },
+ {
+   "locusName": "D3S1358",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 15,
+   "frequency": 31.3
+ },
+ {
+   "locusName": "D3S1358",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 16,
+   "frequency": 31.3
+ },
+ {
+   "locusName": "D3S1358",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 17,
+   "frequency": 17.7
+ },
+ {
+   "locusName": "D3S1358",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 18,
+   "frequency": 5.2
+ },
+ {
+   "locusName": "D3S1358",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 19,
+   "frequency": 0
+ },
+ {
+   "locusName": "VWA",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 13,
+   "frequency": 0
+ },
+ {
+   "locusName": "VWA",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 14,
+   "frequency": 8.7
+ },
+ {
+   "locusName": "VWA",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 15,
+   "frequency": 30.4
+ },
+ {
+   "locusName": "VWA",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 16,
+   "frequency": 23.9
+ },
+ {
+   "locusName": "VWA",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 17,
+   "frequency": 17.4
+ },
+ {
+   "locusName": "VWA",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 18,
+   "frequency": 8.7
+ },
+ {
+   "locusName": "VWA",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 19,
+   "frequency": 6.5
+ },
+ {
+   "locusName": "VWA",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 20,
+   "frequency": 1.1
+ },
+ {
+   "locusName": "VWA",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 21,
+   "frequency": 2.2
+ },
+ {
+   "locusName": "VWA",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 22,
+   "frequency": 1.1
+ },
+ {
+   "locusName": "FGA",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 16,
+   "frequency": 0
+ },
+ {
+   "locusName": "FGA",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 17,
+   "frequency": 0
+ },
+ {
+   "locusName": "FGA",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 18,
+   "frequency": 0
+ },
+ {
+   "locusName": "FGA",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 18.2,
+   "frequency": 0
+ },
+ {
+   "locusName": "FGA",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 19,
+   "frequency": 7.6
+ },
+ {
+   "locusName": "FGA",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 20,
+   "frequency": 3.3
+ },
+ {
+   "locusName": "FGA",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 20.2,
+   "frequency": 0
+ },
+ {
+   "locusName": "FGA",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 21,
+   "frequency": 10.9
+ },
+ {
+   "locusName": "FGA",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 21.2,
+   "frequency": 0
+ },
+ {
+   "locusName": "FGA",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 22,
+   "frequency": 18.5
+ },
+ {
+   "locusName": "FGA",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 22.2,
+   "frequency": 0
+ },
+ {
+   "locusName": "FGA",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 23,
+   "frequency": 18.5
+ },
+ {
+   "locusName": "FGA",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 23.2,
+   "frequency": 0
+ },
+ {
+   "locusName": "FGA",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 24,
+   "frequency": 17.4
+ },
+ {
+   "locusName": "FGA",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 24.2,
+   "frequency": 0
+ },
+ {
+   "locusName": "FGA",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 25,
+   "frequency": 12
+ },
+ {
+   "locusName": "FGA",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 25.2,
+   "frequency": 0
+ },
+ {
+   "locusName": "FGA",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 26,
+   "frequency": 3.3
+ },
+ {
+   "locusName": "FGA",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 26.2,
+   "frequency": 0
+ },
+ {
+   "locusName": "FGA",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 27,
+   "frequency": 2.2
+ },
+ {
+   "locusName": "FGA",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 27.2,
+   "frequency": 1.1
+ },
+ {
+   "locusName": "FGA",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 28,
+   "frequency": 5.4
+ },
+ {
+   "locusName": "FGA",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 29,
+   "frequency": 0
+ },
+ {
+   "locusName": "FGA",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 31,
+   "frequency": 0
+ },
+ {
+   "locusName": "FGA",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 32.2,
+   "frequency": 0
+ },
+ {
+   "locusName": "D8S1179",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 7,
+   "frequency": 0
+ },
+ {
+   "locusName": "D8S1179",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 8,
+   "frequency": 0
+ },
+ {
+   "locusName": "D8S1179",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 9,
+   "frequency": 0
+ },
+ {
+   "locusName": "D8S1179",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 10,
+   "frequency": 0
+ },
+ {
+   "locusName": "D8S1179",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 11,
+   "frequency": 1.1
+ },
+ {
+   "locusName": "D8S1179",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 12,
+   "frequency": 11.7
+ },
+ {
+   "locusName": "D8S1179",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 13,
+   "frequency": 25.5
+ },
+ {
+   "locusName": "D8S1179",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 14,
+   "frequency": 37.2
+ },
+ {
+   "locusName": "D8S1179",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 15,
+   "frequency": 21.3
+ },
+ {
+   "locusName": "D8S1179",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 16,
+   "frequency": 3.2
+ },
+ {
+   "locusName": "D8S1179",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 17,
+   "frequency": 0
+ },
+ {
+   "locusName": "D8S1179",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 18,
+   "frequency": 0
+ },
+ {
+   "locusName": "D8S1179",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 19,
+   "frequency": 0
+ },
+ {
+   "locusName": "D21S11",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 23.2,
+   "frequency": 0
+ },
+ {
+   "locusName": "D21S11",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 24.2,
+   "frequency": 0
+ },
+ {
+   "locusName": "D21S11",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 25,
+   "frequency": 1
+ },
+ {
+   "locusName": "D21S11",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 25.2,
+   "frequency": 0
+ },
+ {
+   "locusName": "D21S11",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 26,
+   "frequency": 1
+ },
+ {
+   "locusName": "D21S11",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 27,
+   "frequency": 4.2
+ },
+ {
+   "locusName": "D21S11",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 28,
+   "frequency": 28.1
+ },
+ {
+   "locusName": "D21S11",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 28.2,
+   "frequency": 0
+ },
+ {
+   "locusName": "D21S11",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 29,
+   "frequency": 16.7
+ },
+ {
+   "locusName": "D21S11",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 29.2,
+   "frequency": 1
+ },
+ {
+   "locusName": "D21S11",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 30,
+   "frequency": 15.6
+ },
+ {
+   "locusName": "D21S11",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 30.2,
+   "frequency": 2.1
+ },
+ {
+   "locusName": "D21S11",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 31,
+   "frequency": 10.4
+ },
+ {
+   "locusName": "D21S11",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 31.2,
+   "frequency": 2.1
+ },
+ {
+   "locusName": "D21S11",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 32,
+   "frequency": 3.1
+ },
+ {
+   "locusName": "D21S11",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 32.2,
+   "frequency": 6.3
+ },
+ {
+   "locusName": "D21S11",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 33,
+   "frequency": 0
+ },
+ {
+   "locusName": "D21S11",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 33.2,
+   "frequency": 2.1
+ },
+ {
+   "locusName": "D21S11",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 34,
+   "frequency": 1
+ },
+ {
+   "locusName": "D21S11",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 34.2,
+   "frequency": 0
+ },
+ {
+   "locusName": "D21S11",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 35,
+   "frequency": 3.1
+ },
+ {
+   "locusName": "D21S11",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 36,
+   "frequency": 2.1
+ },
+ {
+   "locusName": "D21S11",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 37,
+   "frequency": 0
+ },
+ {
+   "locusName": "D18S51",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 9,
+   "frequency": 0
+ },
+ {
+   "locusName": "D18S51",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 10,
+   "frequency": 0
+ },
+ {
+   "locusName": "D18S51",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 10.2,
+   "frequency": 0
+ },
+ {
+   "locusName": "D18S51",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 11,
+   "frequency": 1.1
+ },
+ {
+   "locusName": "D18S51",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 11.2,
+   "frequency": 0
+ },
+ {
+   "locusName": "D18S51",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 12,
+   "frequency": 9.6
+ },
+ {
+   "locusName": "D18S51",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 13,
+   "frequency": 2.1
+ },
+ {
+   "locusName": "D18S51",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 13.2,
+   "frequency": 1.1
+ },
+ {
+   "locusName": "D18S51",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 14,
+   "frequency": 5.3
+ },
+ {
+   "locusName": "D18S51",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 14.2,
+   "frequency": 0
+ },
+ {
+   "locusName": "D18S51",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 15,
+   "frequency": 19.1
+ },
+ {
+   "locusName": "D18S51",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 15.2,
+   "frequency": 1.1
+ },
+ {
+   "locusName": "D18S51",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 16,
+   "frequency": 9.6
+ },
+ {
+   "locusName": "D18S51",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 17,
+   "frequency": 22.3
+ },
+ {
+   "locusName": "D18S51",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 18,
+   "frequency": 10.6
+ },
+ {
+   "locusName": "D18S51",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 19,
+   "frequency": 8.5
+ },
+ {
+   "locusName": "D18S51",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 20,
+   "frequency": 6.4
+ },
+ {
+   "locusName": "D18S51",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 21,
+   "frequency": 2.1
+ },
+ {
+   "locusName": "D18S51",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 22,
+   "frequency": 0
+ },
+ {
+   "locusName": "D18S51",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 23,
+   "frequency": 1.1
+ },
+ {
+   "locusName": "D18S51",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 24,
+   "frequency": 0
+ },
+ {
+   "locusName": "D18S51",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 25,
+   "frequency": 0
+ },
+ {
+   "locusName": "D18S51",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 27,
+   "frequency": 0
+ },
+ {
+   "locusName": "D5S818",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 6,
+   "frequency": 0
+ },
+ {
+   "locusName": "D5S818",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 7,
+   "frequency": 1
+ },
+ {
+   "locusName": "D5S818",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 8,
+   "frequency": 4.2
+ },
+ {
+   "locusName": "D5S818",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 9,
+   "frequency": 2.1
+ },
+ {
+   "locusName": "D5S818",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 10,
+   "frequency": 15.6
+ },
+ {
+   "locusName": "D5S818",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 11,
+   "frequency": 21.9
+ },
+ {
+   "locusName": "D5S818",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 12,
+   "frequency": 33.3
+ },
+ {
+   "locusName": "D5S818",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 13,
+   "frequency": 19.8
+ },
+ {
+   "locusName": "D5S818",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 14,
+   "frequency": 2.1
+ },
+ {
+   "locusName": "D5S818",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 15,
+   "frequency": 0
+ },
+ {
+   "locusName": "D5S818",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 16,
+   "frequency": 0
+ },
+ {
+   "locusName": "D13S317",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 6,
+   "frequency": 0
+ },
+ {
+   "locusName": "D13S317",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 7,
+   "frequency": 0
+ },
+ {
+   "locusName": "D13S317",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 8,
+   "frequency": 2.1
+ },
+ {
+   "locusName": "D13S317",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 9,
+   "frequency": 0
+ },
+ {
+   "locusName": "D13S317",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 10,
+   "frequency": 2.1
+ },
+ {
+   "locusName": "D13S317",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 11,
+   "frequency": 24.5
+ },
+ {
+   "locusName": "D13S317",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 12,
+   "frequency": 51.1
+ },
+ {
+   "locusName": "D13S317",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 13,
+   "frequency": 12.8
+ },
+ {
+   "locusName": "D13S317",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 14,
+   "frequency": 6.4
+ },
+ {
+   "locusName": "D13S317",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 15,
+   "frequency": 1.1
+ },
+ {
+   "locusName": "D7S820",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 6,
+   "frequency": 1.1
+ },
+ {
+   "locusName": "D7S820",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 7,
+   "frequency": 1.1
+ },
+ {
+   "locusName": "D7S820",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 8,
+   "frequency": 23.4
+ },
+ {
+   "locusName": "D7S820",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 9,
+   "frequency": 10.6
+ },
+ {
+   "locusName": "D7S820",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 10,
+   "frequency": 34
+ },
+ {
+   "locusName": "D7S820",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 11,
+   "frequency": 21.3
+ },
+ {
+   "locusName": "D7S820",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 12,
+   "frequency": 6.4
+ },
+ {
+   "locusName": "D7S820",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 13,
+   "frequency": 2.1
+ },
+  {
+    "locusName": "D7S820",
+    "populationCode": "NIG",
+    "populationName": "Nigeria",
+    "alleleNo": 14,
+    "frequency": 0
+  }
+]
