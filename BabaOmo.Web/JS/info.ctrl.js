@@ -11,7 +11,7 @@
     });
 
     var Info = function () {
-        this.name = "Mykeels";
+        this.name = "";
         this.email = "";
         this.gender = "male";
         this.dob = "01/01/2002";
