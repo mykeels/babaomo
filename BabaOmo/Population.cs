@@ -11,7 +11,6 @@ namespace BabaOmo
         public class Codes
         {
             public const string Sudan = "SDN";
-            public const string Canada = "CND";
             public const string Nigeria = "NIG";
             public const string BeninRepublic = "BEN";
             public const string Germany = "GER";
