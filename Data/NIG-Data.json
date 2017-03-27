@@ -308,6 +308,13 @@
    "frequency": 0
  },
  {
+   "locusName": "FGA",
+   "populationCode": "NIG",
+   "populationName": "Nigeria",
+   "alleleNo": 45.2,
+   "frequency": 0
+ },
+ {
    "locusName": "D8S1179",
    "populationCode": "NIG",
    "populationName": "Nigeria",
