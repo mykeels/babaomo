@@ -34,3 +34,6 @@ C:\Users\SHARON\Documents\Visual Studio 2013\Projects\BabaOmo\BabaOmo.Tests\bin\
 C:\Users\SHARON\Documents\Visual Studio 2013\Projects\BabaOmo\BabaOmo.Tests\bin\Debug\SendGrid.SmtpApi.dll
 C:\Users\SHARON\Documents\Visual Studio 2013\Projects\BabaOmo\BabaOmo.Tests\bin\Debug\BabaOmo.pdb
 C:\Users\SHARON\Documents\Visual Studio 2013\Projects\BabaOmo\BabaOmo.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\SHARON\Documents\Visual Studio 2013\Projects\BabaOmo\BabaOmo.Tests\bin\Debug\Data\CND-Data.json
+C:\Users\SHARON\Documents\Visual Studio 2013\Projects\BabaOmo\BabaOmo.Tests\bin\Debug\Data\CND-Data.csv
+C:\Users\SHARON\Documents\Visual Studio 2013\Projects\BabaOmo\BabaOmo.Tests\bin\Debug\Data\Solidstar.json

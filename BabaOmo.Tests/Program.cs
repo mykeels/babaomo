@@ -14,18 +14,20 @@ namespace BabaOmo.Tests
     {
         public static void Main(string[] args)
         {
-            var config = JsonConvert.DeserializeObject<Config>(System.IO.File.ReadAllText("Data/Wizkid.json"));
+            var config = JsonConvert.DeserializeObject<Config>(System.IO.File.ReadAllText("Data/wizkid.json"));
             Console.WriteLine(config.ToJson(true));
 
             var test = new Paternity(config);
 
             string result = test.GetVerdict();
 
+            Console.WriteLine("Paternity Indices: ");
+            Console.WriteLine(test.PaternityIndices.ToJson(true));
+
             Console.WriteLine(result);
             Console.WriteLine();
 
-            Console.WriteLine("Paternity Indices: ");
-            Console.WriteLine(test.PaternityIndices.ToJson(true));
+            
 
             Console.Read();
         }

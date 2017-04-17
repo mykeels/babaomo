@@ -19,6 +19,7 @@ namespace BabaOmo
             public const string China = "CHN";
             public const string Japan = "JAP";
             public const string Thailand = "THA";
+            public const string Canada = "CND";
         }
 
         public class AlleleFrequency

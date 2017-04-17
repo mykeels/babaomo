@@ -12,33 +12,33 @@
     },
     {
       "Name": "VWA",
-      "AlleleA": 13,
-      "AlleleB": 16
+      "AlleleA": 14,
+      "AlleleB": 18
     },
     {
       "Name": "FGA",
-      "AlleleA": 22,
-      "AlleleB": 28
+      "AlleleA": 27,
+      "AlleleB": 45.2
     },
     {
       "Name": "D8S1179",
-      "AlleleA": 13,
+      "AlleleA": 11,
       "AlleleB": 14
     },
     {
       "Name": "D21S11",
       "AlleleA": 28,
-      "AlleleB": 32.2
+      "AlleleB": 31
     },
     {
       "Name": "D18S51",
-      "AlleleA": 17,
+      "AlleleA": 13.2,
       "AlleleB": 18
     },
     {
       "Name": "D5S818",
-      "AlleleA": 8,
-      "AlleleB": 12
+      "AlleleA": 12,
+      "AlleleB": 13
     }
   ],
   "MotherLoci": [
@@ -87,42 +87,42 @@
     {
       "Name": "D3S1358",
       "AlleleA": 16,
-      "AlleleB": 17
+      "AlleleB": 16
     },
     {
       "Name": "D7S820",
       "AlleleA": 8,
-      "AlleleB": 11
+      "AlleleB": 8
     },
     {
       "Name": "VWA",
-      "AlleleA": 14,
-      "AlleleB": 16
-    },
-    {
-      "Name": "FGA",
-      "AlleleA": 21,
-      "AlleleB": 28
-    },
-    {
-      "Name": "D8S1179",
-      "AlleleA": 14,
-      "AlleleB": 15
-    },
-    {
-      "Name": "D21S11",
-      "AlleleA": 28,
-      "AlleleB": 32.2
-    },
-    {
-      "Name": "D18S51",
       "AlleleA": 17,
       "AlleleB": 18
     },
     {
+      "Name": "FGA",
+      "AlleleA": 22,
+      "AlleleB": 23
+    },
+    {
+      "Name": "D8S1179",
+      "AlleleA": 13,
+      "AlleleB": 13
+    },
+    {
+      "Name": "D21S11",
+      "AlleleA": 30,
+      "AlleleB": 31
+    },
+    {
+      "Name": "D18S51",
+      "AlleleA": 18,
+      "AlleleB": 23
+    },
+    {
       "Name": "D5S818",
-      "AlleleA": 8,
-      "AlleleB": 14
+      "AlleleA": 10,
+      "AlleleB": 13
     }
   ],
   "PopulationCode": "NIG",

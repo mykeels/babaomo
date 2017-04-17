@@ -65,6 +65,12 @@
     <Content Include="Resources\PopulationData.txt" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Data\CND-Data.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Data\CND-Data.csv">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
     <None Include="Data\NIG-Data.csv">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>

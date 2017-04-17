@@ -19,3 +19,5 @@ C:\Users\SHARON\Documents\Visual Studio 2013\Projects\BabaOmo\BabaOmo\obj\Debug\
 C:\Users\SHARON\Documents\Visual Studio 2013\Projects\BabaOmo\BabaOmo\obj\Debug\BabaOmo.csproj.GenerateResource.Cache
 C:\Users\SHARON\Documents\Visual Studio 2013\Projects\BabaOmo\BabaOmo\obj\Debug\BabaOmo.dll
 C:\Users\SHARON\Documents\Visual Studio 2013\Projects\BabaOmo\BabaOmo\obj\Debug\BabaOmo.pdb
+C:\Users\SHARON\Documents\Visual Studio 2013\Projects\BabaOmo\BabaOmo\bin\Debug\Data\CND-Data.json
+C:\Users\SHARON\Documents\Visual Studio 2013\Projects\BabaOmo\BabaOmo\bin\Debug\Data\CND-Data.csv
