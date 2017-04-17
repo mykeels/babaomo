@@ -1,0 +1,41 @@
+﻿<div class="top-wrap">
+    <img src="img/dna.png" class="dna-img-2 top-right-img animated jello infinite" />
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+                <a ui-sref="info" class="ripple arrow-wrap"><i class="material-icons">&#xE5C4;</i></a>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-xs-12 text-center">
+                <h2><small>Step</small> 2/<small>4</small></h2>
+                <h2>Father's DNA Pairs</h2>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="wrap pat-form animated slideInUp" ng-init="alleleInfo = AlleleInfo.create('father').generateFatherAllelePairs()">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+                <div ng-repeat="allelePair in alleleInfo.alleles" allele-pair="allelePair" allele-names="alleleNames" index="{{$index}}" remove-allele-pair="alleleInfo.removeAllelePair(index)" selected-allele-names="selectedAlleleNames" change-allele-name="true"></div>
+
+                <div class="row" ng-if="alleleInfo.alleles.length == 0">
+                    <h4 class="col-xs-12 text-center">
+                        Empty Allele Pairs
+                    </h4>
+                </div>
+
+                <div class="row">
+                    <div class="col-xs-12 text-center">
+                        <button class="btn add-dna btn-default" ng-click="alleleInfo.addAllelePair()"><i class="material-icons">&#xE145;</i> Add DNA Pair</button>
+                    </div>
+                </div>
+
+                <a ng-if="alleleInfo.alleles.length >= 3" ng-click="proceedToChild()" class="btn btn-primary btn-block blue-btn">Proceed <i class="material-icons">&#xE5C8;</i></a>
+
+            </div>
+        </div>
+    </div>
+</div>

@@ -3,49 +3,51 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Newtonsoft.Json;
 
 namespace BabaOmo
 {
     public class Locus
     {
-        public string Name { get; set; }
-        public decimal AlleleA { get; set; }
-        public decimal AlleleB { get; set; }
+        public string name { get; set; }
+        public decimal allele1 { get; set; }
+        public decimal allele2 { get; set; }
 
         public Locus()
         {
-            this.AlleleA = 0;
-            this.AlleleB = 0;
+            this.allele1 = 0;
+            this.allele2 = 0;
         }
 
         public Locus(decimal a, decimal b)
         {
-            this.AlleleA = a;
-            this.AlleleB = b;
+            this.allele1 = a;
+            this.allele2 = b;
         }
 
         public Locus(decimal ab)
         {
-            this.AlleleA = ab;
-            this.AlleleB = ab;
+            this.allele1 = ab;
+            this.allele2 = ab;
         }
 
-        public bool IsSame()
+        public bool isSame()
         {
-            return this.AlleleA == this.AlleleB;
+            return this.allele1 == this.allele2;
         }
 
-        public static decimal GetSimilarAllele(Locus a, Locus b)
+        public static decimal getSimilarAllele(Locus a, Locus b)
         {
             //a could be father and b could be child ... even vice-versa
-            if (a.AlleleA == b.AlleleA || a.AlleleA == b.AlleleB) return a.AlleleA;
-            if (a.AlleleB == b.AlleleA || a.AlleleB == b.AlleleB) return a.AlleleB;
-            if (a.AlleleA == b.AlleleA || a.AlleleB == b.AlleleA) return b.AlleleA;
-            if (a.AlleleA == b.AlleleB || a.AlleleB == b.AlleleB) return b.AlleleB;
+            if (a.allele1 == b.allele1 || a.allele1 == b.allele2) return a.allele1;
+            if (a.allele2 == b.allele1 || a.allele2 == b.allele2) return a.allele2;
+            if (a.allele1 == b.allele1 || a.allele2 == b.allele1) return b.allele1;
+            if (a.allele1 == b.allele2 || a.allele2 == b.allele2) return b.allele2;
             return 0;
         }
     }
-
+    
+    [JsonArray]
     public class Loci: List<Locus>
     {
         public Loci()

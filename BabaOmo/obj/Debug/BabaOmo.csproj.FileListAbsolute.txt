@@ -9,6 +9,7 @@ C:\Users\michaeli\Documents\Visual Studio 2015\Projects\BabaOmo\BabaOmo\obj\Debu
 C:\Users\michaeli\Documents\Visual Studio 2015\Projects\BabaOmo\BabaOmo\obj\Debug\BabaOmo.pdb
 C:\Users\michaeli\Documents\Visual Studio 2015\Projects\BabaOmo\BabaOmo\bin\Debug\Data\NIG-Data.csv
 C:\Users\michaeli\Documents\Visual Studio 2015\Projects\BabaOmo\BabaOmo\bin\Debug\Data\NIG-Data.json
+<<<<<<< HEAD
 C:\Users\SHARON\Documents\Visual Studio 2013\Projects\BabaOmo\BabaOmo\bin\Debug\Data\NIG-Data.csv
 C:\Users\SHARON\Documents\Visual Studio 2013\Projects\BabaOmo\BabaOmo\bin\Debug\Data\NIG-Data.json
 C:\Users\SHARON\Documents\Visual Studio 2013\Projects\BabaOmo\BabaOmo\bin\Debug\BabaOmo.dll
@@ -21,3 +22,15 @@ C:\Users\SHARON\Documents\Visual Studio 2013\Projects\BabaOmo\BabaOmo\obj\Debug\
 C:\Users\SHARON\Documents\Visual Studio 2013\Projects\BabaOmo\BabaOmo\obj\Debug\BabaOmo.pdb
 C:\Users\SHARON\Documents\Visual Studio 2013\Projects\BabaOmo\BabaOmo\bin\Debug\Data\CND-Data.json
 C:\Users\SHARON\Documents\Visual Studio 2013\Projects\BabaOmo\BabaOmo\bin\Debug\Data\CND-Data.csv
+=======
+C:\Users\IKECHI\Documents\Visual Studio 2015\Projects\babaomo\BabaOmo\bin\Debug\Data\NIG-Data.csv
+C:\Users\IKECHI\Documents\Visual Studio 2015\Projects\babaomo\BabaOmo\bin\Debug\Data\NIG-Data.json
+C:\Users\IKECHI\Documents\Visual Studio 2015\Projects\babaomo\BabaOmo\bin\Debug\BabaOmo.dll
+C:\Users\IKECHI\Documents\Visual Studio 2015\Projects\babaomo\BabaOmo\bin\Debug\BabaOmo.pdb
+C:\Users\IKECHI\Documents\Visual Studio 2015\Projects\babaomo\BabaOmo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\IKECHI\Documents\Visual Studio 2015\Projects\babaomo\BabaOmo\obj\Debug\BabaOmo.csprojResolveAssemblyReference.cache
+C:\Users\IKECHI\Documents\Visual Studio 2015\Projects\babaomo\BabaOmo\obj\Debug\BabaOmo.Resources.resources
+C:\Users\IKECHI\Documents\Visual Studio 2015\Projects\babaomo\BabaOmo\obj\Debug\BabaOmo.csproj.GenerateResource.Cache
+C:\Users\IKECHI\Documents\Visual Studio 2015\Projects\babaomo\BabaOmo\obj\Debug\BabaOmo.dll
+C:\Users\IKECHI\Documents\Visual Studio 2015\Projects\babaomo\BabaOmo\obj\Debug\BabaOmo.pdb
+>>>>>>> master
