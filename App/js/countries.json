@@ -1,0 +1,12 @@
+﻿[
+  { "name":  "Sudan", "code":  "SDN", "active": false },
+  { "name":  "Nigeria", "code":  "NIG", "active": true },
+  { "name":  "Benin Republic", "code":  "BEN", "active": false },
+  { "name":  "Germany", "code":  "GER", "active": false },
+  { "name":  "Spain", "code":  "SPN", "active": false },
+  { "name":  "Brazil", "code":  "BRA", "active": false },
+  { "name":  "China", "code":  "SHN", "active": false },
+  { "name":  "Japan", "code":  "JAP", "active": false },
+  { "name":  "Thailand", "code":  "THA", "active": false },
+  { "name":  "Canada", "code":  "CND", "active": true }
+]
