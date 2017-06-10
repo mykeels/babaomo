@@ -48,13 +48,11 @@ function rootPartialsUrl(url) {
 }
 
 function rootDirectivesUrl(url) {
-    if (document.location.href.indexOf('localhost') >= 0) return rootUrl('js/directives/') + url;
-    else return rootUrl(url);
+    return rootUrl('js/directives/') + url;
 }
 
 function rootJsUrl(url) {
-    if (document.location.href.indexOf('localhost') >= 0) return rootUrl('js/') + url;
-    else return rootUrl(url);
+    return rootUrl('js/') + url;
 }
 
 var sampleFatherLoci = [
