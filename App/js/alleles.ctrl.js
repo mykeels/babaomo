@@ -15,8 +15,9 @@
                 $state.go("father");
                 return;
             }
-            $scope.babaOmoFactory.fatherInfo.alleles.slice(0).forEach(function (allele) {
+            $scope.babaOmoFactory.fatherInfo.alleles.slice(0).forEach(function (allele, index) {
                 var childAllele = new AllelePair();
+                childAllele.name = allele.name;
                 //allele.allele1 = 0;
                 //allele.allele2 = 0;
                 me.alleles.push(childAllele);
