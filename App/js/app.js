@@ -44,8 +44,7 @@ function errorhandler(err, obj) {
 }
 
 function rootPartialsUrl(url) {
-    if (document.location.href.indexOf('localhost') >= 0) return rootUrl('partials/') + url;
-    else return rootUrl(url);
+    return rootUrl('partials/') + url;
 }
 
 function rootDirectivesUrl(url) {
