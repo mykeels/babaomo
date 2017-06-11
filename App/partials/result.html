@@ -19,13 +19,13 @@
     <div class="container">
         <div class="row">
             <div class="col-xs-12 text-center">
-                <div ng-repeat="verdict in verdicts">
+                <div ng-repeat="verdict in verdicts track by $index">
                     <h1 class="score">{{(verdict.probabilityOfPaternity).toFixed(2)}}%</h1>
                     <p>{{verdict.verdict}}</p>
                     <p><small>Prior Probability: {{(verdict.priorProbability * 100).toFixed()}}%</small></p>
                     <p><small>Combined Paternity Index: {{(verdict.combinedPaternityIndex).toFixed()}}</small></p>
                     <p><small>Paternity Indices: </small></p>
-                    <p ng-repeat="paternity in paternities[$index].getPaternityIndices()">
+                    <p ng-repeat="paternity in paternities[$index].getPaternityIndices() track by $index">
                         <small>{{paternities[$parent.$index].config.fatherLoci[$index].name}}: {{Math.round(paternity, 2)}}</small>
                     </p>
                     <p><a href="#" class="text-success"><i class="material-icons">&#xE80D;</i> Share Results</a></p>
