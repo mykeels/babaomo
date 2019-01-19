@@ -1,0 +1,89 @@
+﻿{
+  "FatherLoci": [
+    {
+      "Name": "D3S1358",
+      "AlleleA": 16,
+      "AlleleB": 18
+    },
+    {
+      "Name": "D7S820",
+      "AlleleA": 10,
+      "AlleleB": 12
+    },
+    {
+      "Name": "VWA",
+      "AlleleA": 15,
+      "AlleleB": 18
+    },
+    {
+      "Name": "FGA",
+      "AlleleA": 22,
+      "AlleleB": 23
+    },
+    {
+      "Name": "D8S1179",
+      "AlleleA": 12,
+      "AlleleB": 14
+    },
+    {
+      "Name": "D21S11",
+      "AlleleA": 28,
+      "AlleleB": 28
+    },
+    {
+      "Name": "D18S51",
+      "AlleleA": 12,
+      "AlleleB": 14
+    },
+    {
+      "Name": "D5S818",
+      "AlleleA": 11,
+      "AlleleB": 12
+    }
+ 
+  ],
+  "ChildLoci": [
+    {
+      "Name": "D3S1358",
+      "AlleleA": 16,
+      "AlleleB": 16
+    },
+    {
+      "Name": "D7S820",
+      "AlleleA": 8,
+      "AlleleB": 12
+    },
+    {
+      "Name": "VWA",
+      "AlleleA": 15,
+      "AlleleB": 16
+    },
+    {
+      "Name": "FGA",
+      "AlleleA": 22,
+      "AlleleB": 24
+    },
+    {
+      "Name": "D8S1179",
+      "AlleleA": 14,
+      "AlleleB": 14
+    },
+    {
+      "Name": "D21S11",
+      "AlleleA": 28,
+      "AlleleB": 30
+    },
+    {
+      "Name": "D18S51",
+      "AlleleA": 12,
+      "AlleleB": 17
+    },
+    {
+      "Name": "D5S818",
+      "AlleleA": 12,
+      "AlleleB": 13
+    }
+  ],
+  "PopulationCode": "CND",
+  "PriorProbability":  0.5
+}

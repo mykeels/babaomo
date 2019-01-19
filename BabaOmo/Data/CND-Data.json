@@ -1,0 +1,949 @@
+﻿[
+ {
+   "LocusName": "D3S1358",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 12,
+   "Frequency": 0.0030
+ },
+ {
+   "LocusName": "D3S1358",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 13,
+   "Frequency": 0.0060
+ },
+ {
+   "LocusName": "D3S1358",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 14,
+   "Frequency": 0.1325
+ },
+ {
+   "LocusName": "D3S1358",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 15,
+   "Frequency": 0.2892
+ },
+ {
+   "LocusName": "D3S1358",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 15.2,
+   "Frequency": 0.0000
+ },
+ {
+   "LocusName": "D3S1358",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 16,
+   "Frequency": 0.2259
+ },
+ {
+   "LocusName": "D3S1358",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 17,
+   "Frequency": 0.1687
+ },
+ {
+   "LocusName": "D3S1358",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 17.1,
+   "Frequency": 0.0000
+ },
+ {
+   "LocusName": "D3S1358",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 18,
+   "Frequency": 0.1596
+ },
+ {
+   "LocusName": "D3S1358",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 19,
+   "Frequency": 0.0151
+ },
+ {
+   "LocusName": "VWA",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 11,
+   "Frequency": 0.0000
+ },
+ {
+   "LocusName": "VWA",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 12,
+   "Frequency": 0.0030
+ },
+ {
+   "LocusName": "VWA",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 13,
+   "Frequency": 0.0000
+ },
+ {
+   "LocusName": "VWA",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 14,
+   "Frequency": 0.1295
+ },
+ {
+   "LocusName": "VWA",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 15,
+   "Frequency": 0.1205
+ },
+ {
+   "LocusName": "VWA",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 16,
+   "Frequency": 0.1837
+ },
+  {
+   "LocusName": "VWA",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 17,
+   "Frequency": 0.2771
+ },
+  {
+   "LocusName": "VWA",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 18,
+   "Frequency": 0.1898
+ },
+  {
+   "LocusName": "VWA",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 19,
+   "Frequency": 0.0904
+ },
+  {
+   "LocusName": "VWA",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 20,
+   "Frequency": 0.0060
+ },
+  {
+   "LocusName": "VWA",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 21,
+   "Frequency": 0.0000
+ },
+  {
+   "LocusName": "FGA",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 18,
+   "Frequency": 0.0090
+ },
+  {
+   "LocusName": "FGA",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 18.2,
+   "Frequency": 0.0000
+ },
+  {
+   "LocusName": "FGA",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 19,
+   "Frequency": 0.0633
+ },
+  {
+   "LocusName": "FGA",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 19.2,
+   "Frequency": 0.0000
+ },
+  {
+   "LocusName": "FGA",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 20,
+   "Frequency": 0.1235
+ },
+  {
+   "LocusName": "FGA",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 20.2,
+   "Frequency": 0.000
+ },
+  {
+   "LocusName": "FGA",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 21,
+   "Frequency": 0.1807
+ },
+  {
+   "LocusName": "FGA",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 21.2,
+   "Frequency": 0.0000
+ },
+  {
+   "LocusName": "FGA",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 22,
+   "Frequency": 0.2289
+ },
+   {
+   "LocusName": "FGA",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 22.2,
+   "Frequency": 0.0000
+ },
+    {
+   "LocusName": "FGA",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 23,
+   "Frequency": 0.1295
+ },
+     {
+   "LocusName": "FGA",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 23.2,
+   "Frequency": 0.0000
+ },
+ {
+   "LocusName": "FGA",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 24,
+   "Frequency": 0.1446
+ },
+  {
+   "LocusName": "FGA",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 24.2,
+   "Frequency": 0.0000
+ },
+   {
+   "LocusName": "FGA",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 25,
+   "Frequency": 0.0964
+ },
+    {
+   "LocusName": "FGA",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 25.2,
+   "Frequency": 0.0000
+ },
+    {
+   "LocusName": "FGA",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 26,
+   "Frequency": 0.0181
+ },
+    {
+   "LocusName": "FGA",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 26.2,
+   "Frequency": 0.0000
+ },
+    {
+   "LocusName": "FGA",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 27,
+   "Frequency": 0.0060
+ },
+    {
+   "LocusName": "FGA",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 27.2,
+   "Frequency": 0.0000
+ },
+    {
+   "LocusName": "FGA",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 28,
+   "Frequency": 0.0000
+ },
+    {
+   "LocusName": "FGA",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 29,
+   "Frequency": 0.0000
+ },
+    {
+   "LocusName": "FGA",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 30,
+   "Frequency": 0.0000
+ },
+    {
+   "LocusName": "D8S1179",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 9,
+   "Frequency": 0.0060
+ },
+ {
+   "LocusName": "D8S1179",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 10,
+   "Frequency": 0.0934
+ },
+  {
+   "LocusName": "D8S1179",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 11,
+   "Frequency": 0.0693
+ },
+   {
+   "LocusName": "D8S1179",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 12,
+   "Frequency": 0.1627
+ },
+    {
+   "LocusName": "D8S1179",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 13,
+   "Frequency": 0.3373
+ },
+     {
+   "LocusName": "D8S1179",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 14,
+   "Frequency": 0.1867
+ },
+      {
+   "LocusName": "D8S1179",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 15,
+   "Frequency": 0.1867
+ },
+       {
+   "LocusName": "D8S1179",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 16,
+   "Frequency": 0.0271
+ },
+  {
+   "LocusName": "D8S1179",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 17,
+   "Frequency": 0.0030
+ },
+  {
+   "LocusName": "D21S11",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 24.2,
+   "Frequency": 0.0030
+ },
+  {
+   "LocusName": "D21S11",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 25,
+   "Frequency": 0.0000
+ },
+  {
+   "LocusName": "D21S11",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 25.2,
+   "Frequency": 0.0000
+ },
+  {
+   "LocusName": "D21S11",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 26,
+   "Frequency": 0.0030
+ },
+  {
+   "LocusName": "D21S11",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 26.2,
+   "Frequency": 0.0000
+ },
+  {
+   "LocusName": "D21S11",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 27,
+   "Frequency": 0.0241
+ },
+  {
+   "LocusName": "D21S11",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 28,
+   "Frequency": 0.1536
+ },
+  {
+   "LocusName": "D21S11",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 28.2,
+   "Frequency": 0.0000
+ },
+  {
+   "LocusName": "D21S11",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 29,
+   "Frequency": 0.2169
+ },
+  {
+   "LocusName": "D21S11",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 29.2,
+   "Frequency": 0.0030
+ },
+  {
+   "LocusName": "D21S11",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 29.3,
+   "Frequency": 0.0030
+ },
+  {
+   "LocusName": "D21S11",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 30,
+   "Frequency": 0.2048
+ },
+  {
+   "LocusName": "D21S11",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 30.2,
+   "Frequency": 0.0783
+ },
+  {
+   "LocusName": "D21S11",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 30.3,
+   "Frequency": 0.0000
+ },
+  {
+   "LocusName": "D21S11",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 31,
+   "Frequency": 0.0934
+ },
+  {
+   "LocusName": "D21S11",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 31.1,
+   "Frequency": 0.0000
+ },
+  {
+   "LocusName": "D21S11",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 31.2,
+   "Frequency": 0.0934
+ },
+  {
+   "LocusName": "D21S11",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 32,
+   "Frequency": 0.0181
+ },
+  {
+   "LocusName": "D21S11",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 32.1,
+   "Frequency": 0.0000
+ },
+  {
+   "LocusName": "D21S11",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 32.2,
+   "Frequency": 0.0813
+ },
+  {
+   "LocusName": "D21S11",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 32.3,
+   "Frequency": 0.0000
+ },
+  {
+   "LocusName": "D21S11",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 33,
+   "Frequency": 0.0000
+ },
+  {
+   "LocusName": "D21S11",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 34,
+   "Frequency": 0.0000
+ },
+  {
+   "LocusName": "D21S11",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 34.1,
+   "Frequency": 0.0000
+ },
+  {
+   "LocusName": "D21S11",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 34.2,
+   "Frequency": 0.0030
+ },
+  {
+   "LocusName": "D21S11",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 35,
+   "Frequency": 0.0000
+ },
+  {
+   "LocusName": "D21S11",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 35.2,
+   "Frequency": 0.0000
+ },
+  {
+   "LocusName": "D21S11",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 36,
+   "Frequency": 0.0000
+ },
+  {
+   "LocusName": "D18S51",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 11,
+   "Frequency": 0.0090
+ },
+  {
+   "LocusName": "D18S51",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 12,
+   "Frequency": 0.0934
+ },
+  {
+   "LocusName": "D18S51",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 13,
+   "Frequency": 0.1084
+ },
+  {
+   "LocusName": "D18S51",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 14,
+   "Frequency": 0.1506
+ },
+  {
+   "LocusName": "D18S51",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 14.2,
+   "Frequency": 0.0000
+ },
+  {
+   "LocusName": "D18S51",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 15,
+   "Frequency": 0.1777
+ },
+  {
+   "LocusName": "D18S51",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 15.2,
+   "Frequency": 0.0000
+ },
+  {
+   "LocusName": "D18S51",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 16,
+   "Frequency": 0.1837
+ },
+  {
+   "LocusName": "D18S51",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 16.2,
+   "Frequency": 0.0000
+ },
+  {
+   "LocusName": "D18S51",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 17,
+   "Frequency": 0.1114
+ },
+  {
+   "LocusName": "D18S51",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 18,
+   "Frequency": 0.0663
+ },
+   {
+   "LocusName": "D18S51",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 19,
+   "Frequency": 0.0361
+ },
+    {
+   "LocusName": "D18S51",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 20,
+   "Frequency": 0.0361
+ },
+     {
+   "LocusName": "D18S51",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 20.2,
+   "Frequency": 0.0000
+ },
+ {
+   "LocusName": "D18S51",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 21,
+   "Frequency": 0.0120
+ },
+  {
+   "LocusName": "D18S51",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 21.2,
+   "Frequency": 0.0000
+ },
+   {
+   "LocusName": "D18S51",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 22,
+   "Frequency": 0.0030
+ },
+   {
+   "LocusName": "D5S818",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 7,
+   "Frequency": 0.0000
+ },
+   {
+   "LocusName": "D5S818",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 8,
+   "Frequency": 0.0000
+ },
+   {
+   "LocusName": "D5S818",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 9,
+   "Frequency": 0.0331
+ },
+   {
+   "LocusName": "D5S818",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 9.2,
+   "Frequency": 0.0000
+ },
+   {
+   "LocusName": "D5S818",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 10,
+   "Frequency": 0.0723
+ },
+   {
+   "LocusName": "D5S818",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 11,
+   "Frequency": 0.3464
+ },
+   {
+   "LocusName": "D5S818",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 12,
+   "Frequency": 0.3614
+ },
+   {
+   "LocusName": "D5S818",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 13,
+   "Frequency": 0.1717
+ },
+   {
+   "LocusName": "D5S818",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 14,
+   "Frequency": 0.0120
+ },
+   {
+   "LocusName": "D5S818",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 15,
+   "Frequency": 0.0030
+ },
+    {
+   "LocusName": "D13S317",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 8,
+   "Frequency": 0.0934
+ },
+    {
+   "LocusName": "D13S317",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 8.1,
+   "Frequency": 0.0000
+ },
+    {
+   "LocusName": "D13S317",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 9,
+   "Frequency": 0.0934
+ },
+    {
+   "LocusName": "D13S317",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 10,
+   "Frequency": 0.0452
+ },
+    {
+   "LocusName": "D13S317",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 11,
+   "Frequency": 0.3012
+ },
+    {
+   "LocusName": "D13S317",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 12,
+   "Frequency": 0.3012
+ },
+    {
+   "LocusName": "D13S317",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 13,
+   "Frequency": 0.1235
+ },
+    {
+   "LocusName": "D13S317",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 13.3,
+   "Frequency": 0.0000
+ },
+    {
+   "LocusName": "D13S317",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 14,
+   "Frequency": 0.0422
+ },
+    {
+   "LocusName": "D13S317",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 15,
+   "Frequency": 0.0000
+ },
+     {
+   "LocusName": "D7S820",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 6,
+   "Frequency": 0.0000
+ },
+     {
+   "LocusName": "D7S820",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 6.3,
+   "Frequency": 0.0000
+ },
+     {
+   "LocusName": "D7S820",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 7,
+   "Frequency": 0.0181
+ },
+     {
+   "LocusName": "D7S820",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 8,
+   "Frequency": 0.1627
+ },
+     {
+   "LocusName": "D7S820",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 8.1,
+   "Frequency": 0.0000
+ },
+     {
+   "LocusName": "D7S820",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 8.2,
+   "Frequency": 0.0000
+ },
+     {
+   "LocusName": "D7S820",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 9,
+   "Frequency": 0.1325
+ },
+     {
+   "LocusName": "D7S820",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 9.1,
+   "Frequency": 0.0000
+ },
+     {
+   "LocusName": "D7S820",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 9.3,
+   "Frequency": 0.0000
+ },
+     {
+   "LocusName": "D7S820",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 10,
+   "Frequency": 0.2620
+ },
+     {
+   "LocusName": "D7S820",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 10.1,
+   "Frequency": 0.0000
+ },
+     {
+   "LocusName": "D7S820",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 10.3,
+   "Frequency": 0.0000
+ },
+     {
+   "LocusName": "D7S820",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 11,
+   "Frequency": 0.2500
+ },
+    {
+   "LocusName": "D7S820",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 12,
+   "Frequency": 0.1265
+ },
+     {
+   "LocusName": "D7S820",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 13,
+   "Frequency": 0.0452
+ },
+      {
+   "LocusName": "D7S820",
+   "PopulationCode": "CND",
+   "PopulationName": "Canada",
+   "AlleleNo": 14,
+   "Frequency": 0.0030
+ },
+
+
+
+
+
+
+
+
+
+]
